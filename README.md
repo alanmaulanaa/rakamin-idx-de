@@ -7,3 +7,4 @@ Final Submission of Data Engineer (Rakamin x ID/X Partners)
 - Create Job at Talend
 - ETL Processing (Extract Transform Load) Database Staging to DWH_Project
 - Create Stored Procedure
+### Youtube Link : https://youtu.be/Wb_xQpPXnh4
